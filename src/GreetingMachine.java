@@ -10,6 +10,5 @@ public class GreetingMachine {
         gm.greet();
 
         // no onpa kiva homma
-        // koodaus on mukavaa
     }
 }
